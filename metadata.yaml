@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32770
     wikipedia: http://hu.wikipedia.org/wiki/B%C3%A1rsony_Istv%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27565#Magyar--letElbesz-l-sek
 gutenberg_issued: '2008-12-19'
 gutenberg_type: Text
 identifiers:
