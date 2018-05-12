@@ -1,0 +1,38 @@
+_repo: Magyar--letElbesz-l-sek_27565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bársony, István
+    aliases:
+    - Barsony, Istvan
+    - István Bársony
+    - Barsony, Etienne
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '32770'
+    url: http://www.gutenberg.org/2009/agents/32770
+    wikipedia: http://hu.wikipedia.org/wiki/B%C3%A1rsony_Istv%C3%A1n
+description: ''
+gutenberg_issued: '2008-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27565'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction'
+- !lcc 'PH'
+- !lcsh 'Short stories, Hungarian'
+tableOfContents: A nagyasszony házasít -- Lepkék a rózsa körül -- Lecke -- Tavaszi
+  este -- Játék a tüzzel -- Övék a világ -- Vacsoraközben -- Egymás özvegyei -- Vége
+  a játéknak -- Szép asszony esete -- A grófné -- Lángoló kézcsókok -- Veszedelem
+  az erdőn -- A szerelem hangjai -- Egy kis fenstrálás -- Zulejka -- Oda a millió
+  -- Párbaj fegyver nélkül -- Bogáti babonája -- Gyuri bácsi -- A másik miatt -- Izgalom
+  a tanyán.
+title: 'Magyar élet: Elbeszélések'
+url: http://www.gutenberg.org/ebooks/27565
